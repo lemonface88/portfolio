@@ -7,7 +7,7 @@ function Projects() {
 
         <div className="relative container w-screen flex flex-col justify-start items-center space-y-5 pt-24" >
 
-        <h1 class="text-center mb-4 text-4xl font-black leading-none tracking-wide text-gray-900 md:text-5xl lg:text-5xl">
+        <h1 class="italic text-center mb-4 text-4xl font-black leading-none tracking-wide text-gray-900 md:text-5xl lg:text-5xl">
                 Project  Gallery</h1>
             
             <p className="mb-6 text-lg font-normal text-gray-600 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-500 text-center">
