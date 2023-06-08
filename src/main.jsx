@@ -7,7 +7,6 @@ import Navbar from './components/Navbar'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Resume from './components/Resume'
 import Projects from './components/Projects'
-import Buggy from './components/Buggy'
 
 const router = createBrowserRouter (
   [
