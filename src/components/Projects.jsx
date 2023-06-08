@@ -30,8 +30,7 @@ function Projects() {
         <p className="text-xs opacity-0 hover:opacity-100 text-center w-4/5 pt-2">
             This is my first ever coding project. 
             This project demonstrates the fundamental techniques and skills that I aquired during AP computer science, and with 
-            more research to build off the foundation, I was able to code the Mastermind game using Java. Sometimes I look back at this project,
-            to remind myself how far I have progressed through the years.  
+            more research to build off the foundation.  
          
         </p>
         </div>
