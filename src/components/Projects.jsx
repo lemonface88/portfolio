@@ -40,7 +40,7 @@ function Projects() {
 
         <a href="https://drive.google.com/drive/folders/1FyWzbaYjJmVEcoXbNLjTw48Aht4znyf6?usp=sharing">
         <div className="rounded-lg transform h-64 bg-green-200 w-80 transition duration-500 hover:scale-105 hover:bg-green-400 flex flex-col justify-center items-center shadow-xl dark:shadow-gray-200">
-        <p className="text-lg font-semibold text-gray-700 italic">
+        <p className="text-lg font-semibold text-gray-700 italic pt-10">
             Yearbook Design
         </p>
         <p className="text-xs opacity-0 hover:opacity-100 text-center pt-5 w-4/5 padding-bottom-10">
