@@ -45,7 +45,7 @@ function About() {
             <div className="relative container h-screen w-screen flex flex-col justify-start">
             <div className="pl-24 pt-10">
                 {/* Need to make photo a perfect square to turn into a perfect circle */}
-                <img src="about1.png"  
+                <img src="/about1.png"  
                      alt="Harrison Huang"
                      className="rounded-lg shadow-xl dark:shadow-gray-400 h-4/6"/>
             </div>
