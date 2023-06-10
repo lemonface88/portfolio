@@ -1,5 +1,4 @@
 import React from "react";
-import "/src/assets/zoom pic.jpg"
 
 
 function Landing(){
