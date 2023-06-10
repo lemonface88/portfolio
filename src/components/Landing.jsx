@@ -52,7 +52,7 @@ function Landing(){
 
             <div className="pt-52 flex flex-row items-center space-x-10 z-10">
             <a href="https://www.linkedin.com/in/harrison-huang-81b475204/">
-            <img src="/linkedin.png"  
+            <img src="/assets/linkedin.png"  
                      className="w-8"/> 
             </a>
    
