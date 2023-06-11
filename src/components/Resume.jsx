@@ -141,7 +141,7 @@ function Resume() {
             </svg>
 
             <p className="text-center text-xl pt-2 font-normal">
-            <a href="harri.huang@utoronto.ca" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Harri.huang@utoronto.ca</a> <br />
+            <a href="harri.huang@mail.utoronto.ca" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">harri.huang@mail.utoronto.ca</a> <br />
                 </p> 
 
             </div>
