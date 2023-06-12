@@ -18,7 +18,7 @@ function Projects() {
         </div>
 
         
-        <div className="pl-24 pt-24 relative container h-screen w-screen flex flex-row space-x-10">
+        <div className="pl-24 pt-24 relative container h-screen w-screen flex flex-row space-x-10 items-center">
 
         
         <a href="https://github.com/lemonface88/APcompsci-Mastermind" target="_blank">
