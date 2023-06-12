@@ -21,7 +21,7 @@ function Projects() {
         <div className="pl-24 pt-24 relative container h-screen w-screen flex flex-row space-x-10">
 
         
-        <a href="https://github.com/lemonface88/APcompsci-Mastermind">
+        <a href="https://github.com/lemonface88/APcompsci-Mastermind" target="_blank">
         <div className=" rounded-lg transform h-64 bg-sky-200 w-80 transition duration-500 hover:scale-105 hover:bg-sky-400 flex flex-col justify-center items-center shadow-xl dark:shadow-gray-200">
         <p className="text-lg font-semibold text-gray-700 italic">
             Mastermind
@@ -38,7 +38,7 @@ function Projects() {
 
 
 
-        <a href="https://drive.google.com/drive/folders/1FyWzbaYjJmVEcoXbNLjTw48Aht4znyf6?usp=sharing">
+        <a href="https://drive.google.com/drive/folders/1FyWzbaYjJmVEcoXbNLjTw48Aht4znyf6?usp=sharing" target="_blank">
         <div className="rounded-lg transform h-64 bg-green-200 w-80 transition duration-500 hover:scale-105 hover:bg-green-400 flex flex-col justify-center items-center shadow-xl dark:shadow-gray-200">
         <p className="text-lg font-semibold text-gray-700 italic pt-3">
             Yearbook Design
