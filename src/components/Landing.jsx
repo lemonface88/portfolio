@@ -21,7 +21,7 @@ function Landing(){
                 Welcome to my portfolio, I am a third year student at University of Toronto 
                     currently studying psychology and statistics.
                     With some prior coding experiences, 
-                    I am currently teaching myself and exploring the front end developing world.
+                    I am currently teaching myself Tailwindcss and exploring the front end developing world.
             </p>
 
             </div>
