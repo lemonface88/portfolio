@@ -55,6 +55,11 @@ function Landing(){
             <img src="/assets/linkedin.png"  
                      className="w-8"/> 
             </a>
+
+            <a href="https://github.com/lemonface88" target="_blank">
+            <img src="/assets/github.png"  
+                     className="w-8"/> 
+            </a>
    
             </div>
 
