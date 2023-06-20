@@ -129,7 +129,8 @@ function Resume() {
 
             </div>
 
-            <div className=" mt-20">
+            <div className="pt-20">
+                
             <div className="flex flex-col ">
             <div className="flex w-1/ ml-28">
             <a class="hover:animate-bounce mb-2" href="/src/assets/H(resume).pdf" download="Harrison(resume).pdf">
@@ -139,8 +140,6 @@ function Resume() {
             </a>
             </div>
 
-                            
-            <div className=" flex flex-col ">
                 
             <div className=" flex flex-row items-center space-x-3">
 
