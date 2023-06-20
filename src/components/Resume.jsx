@@ -75,7 +75,7 @@ function Resume() {
 
                 <li>Cash register</li>
                 <li>Introduce products according to customers needs</li>
-                <li>Assist in design and rearranging of product placement</li>
+                <li>Assist in the design and rearranging of product placement</li>
                 </ul>
 
                 </div>
@@ -112,7 +112,7 @@ function Resume() {
                 
                 <div className="font- flex-col flex space-y-1 pl-5">
 
-                <ul class="font- list-disc">
+                <ul class="list-disc">
 
                 <li>Interacted and taught students from all around the world</li>
                 <li>Desinged and tailored lectures for each individual student</li>
