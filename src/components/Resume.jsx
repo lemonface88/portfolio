@@ -132,8 +132,9 @@ function Resume() {
             <div className="pt-20">
                 
             <div className="flex flex-col ">
+                
             <div className="flex w-1/ ml-28">
-            <a class="hover:animate-bounce mb-2" href="/src/assets/H(resume).pdf" download="Harrison(resume).pdf">
+            <a class="hover:animate-bounce mb-2" href="/assets/Harrison(resume).pdf" download="Harrison(resume).pdf">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-7 h-6 ml-2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3" />
             </svg>
@@ -142,37 +143,28 @@ function Resume() {
 
                 
             <div className=" flex flex-row items-center space-x-3">
-
             <svg class ="w-10" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75"></path>
             </svg>
-
             <p className="text-center text-xl pt-2 font-normal">
-            <a href="mailto:harri.huang@mail.utoronto.ca" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">harri.huang@mail.utoronto.ca</a> <br />
-                </p> 
-
+            <a href="mailto:harri.huang@mail.utoronto.ca" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">harri.huang@mail.utoronto.ca</a> <br/>
+            </p> 
             </div>
 
 
             <div className="flex flex-row items-center">
-            
             <svg class ="w-10" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 1.5H8.25A2.25 2.25 0 006 3.75v16.5a2.25 2.25 0 002.25 2.25h7.5A2.25 2.25 0 0018 20.25V3.75a2.25 2.25 0 00-2.25-2.25H13.5m-3 0V3h3V1.5m-3 0h3m-3 18.75h3"></path>
             </svg>
             <p className="pl-10 font-normal text-xl">
                 647-545-4201
             </p>
-
             </div>
-
-            </div>
-
-
-  
-
+                
             </div>
 
 
+            </div>
         </div>
     )
 }
